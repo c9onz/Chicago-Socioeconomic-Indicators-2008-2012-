@@ -1,8 +1,8 @@
 # Chicago-Socioeconomic-Indicators-2008-2012
 IBM-based data analysis project which analyzed Chicago socioeconomic data consisting of six indicators of public health significance and a hardship index for each community area. Performed analysis using Python and SQL in Jupyter notebook.<br>
 
-[Chicago Socioeconomic Project](https://github.com/c9onz/Chicago-Socioeconomic-Indicators-2008-2012-/blob/main/DB0201EN-Week3-1-4-Analyzing_SQLite.ipynb)
-
+[Chicago Socioeconomic Project](https://github.com/c9onz/Chicago-Socioeconomic-Indicators-2008-2012-/blob/main/DB0201EN-Week3-1-4-Analyzing_SQLite.ipynb)<br>
+[Chicago Data Portal](https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2/about_data)
 <table>
     <tr>
         <th>Variable</th>
